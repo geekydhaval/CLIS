@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clis.work/sitemap.xml

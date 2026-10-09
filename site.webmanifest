@@ -1,0 +1,13 @@
+{
+  "name": "CLIS — Creating Life In Spaces",
+  "short_name": "CLIS",
+  "description": "Interior design studio in Surat.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f2eee7",
+  "theme_color": "#718385",
+  "icons": [
+    { "src": "/assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
