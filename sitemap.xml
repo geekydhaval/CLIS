@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://clis.work/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <image:image><image:loc>https://clis.work/assets/img/siesta-villa.jpg</image:loc></image:image>
-    <image:image><image:loc>https://clis.work/assets/img/living-room.jpg</image:loc></image:image>
-    <image:image><image:loc>https://clis.work/assets/img/curves-and-calm.jpg</image:loc></image:image>
-    <image:image><image:loc>https://clis.work/assets/img/detail-wall.jpg</image:loc></image:image>
-    <image:image><image:loc>https://clis.work/assets/img/fluted-screen.jpg</image:loc></image:image>
-    <image:image><image:loc>https://clis.work/assets/img/music-corner.jpg</image:loc></image:image>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://clis.work/projects/siesta-villa.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://clis.work/projects/human-design-academy.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://clis.work/projects/sattvam-residence.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://clis.work/projects/aspire-tower-k.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://clis.work/projects/virat-nagar-house-salon.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://clis.work/projects/aspire-tower-c.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://clis.work/projects/janki-heights-residence.html</loc>
+    <lastmod>2026-10-10</lastmod>
   </url>
   <url>
     <loc>https://clis.work/journal/on-site-decisions.html</loc>
