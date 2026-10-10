@@ -38,6 +38,7 @@
     const titleEl = $('[data-reel-title]', hero);
     const metaEl = $('[data-reel-meta]', hero);
     const caption = $('.hero__caption', hero);
+    const linkEl = $('[data-reel-link]', hero);
     const saveData = navigator.connection && navigator.connection.saveData;
     const useVideo = !reduceMotion && !saveData;
     let current = 0;
@@ -72,6 +73,7 @@
       idxEl.textContent = String(n + 1).padStart(2, '0');
       titleEl.innerHTML = s.dataset.title;
       metaEl.textContent = s.dataset.meta;
+      if (linkEl && s.dataset.href) linkEl.href = s.dataset.href;
       caption.classList.remove('is-swapping');
       void caption.offsetWidth;
       caption.classList.add('is-swapping');
@@ -212,7 +214,7 @@
 
   /* WhatsApp button appears after the hero and steps aside for the contact card */
   const wa = $('[data-wa-float]');
-  const cta = $('.cta__card');
+  const cta = $('.cta__card') || $('.ask');
   let ctaInView = false;
   if (wa && cta && 'IntersectionObserver' in window) {
     new IntersectionObserver(([e]) => { ctaInView = e.isIntersecting; setWa(); }, { threshold: 0.3 }).observe(cta);
@@ -220,6 +222,22 @@
   function setWa() {
     if (!wa) return;
     wa.classList.toggle('is-visible', scrollY > innerHeight * 0.55 && !ctaInView);
+  }
+
+  /* Project pages: click an image to see it large */
+  const zoom = $('[data-zoom-dialog]');
+  if (zoom && typeof zoom.showModal === 'function') {
+    const big = $('img', zoom);
+    const close = () => { if (zoom.open) zoom.close(); };
+    $$('[data-zoom]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const small = $('img', btn);
+        big.src = btn.dataset.zoom;
+        big.alt = small ? small.alt : '';
+        zoom.showModal();
+      });
+    });
+    zoom.addEventListener('click', close);
   }
 
   let ticking = false;

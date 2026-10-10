@@ -1,0 +1,861 @@
+[
+ {
+  "slug": "siesta-villa",
+  "title": "Siesta Villa",
+  "place": "Surat",
+  "kind": "Villa · Turnkey",
+  "status": "Completed, 2025",
+  "built": true,
+  "facts": [
+   [
+    "Location",
+    "Surat, Gujarat"
+   ],
+   [
+    "Type",
+    "Residential villa"
+   ],
+   [
+    "Scope",
+    "Turnkey interiors"
+   ],
+   [
+    "Status",
+    "Completed, 2025"
+   ],
+   [
+    "Spaces",
+    "Living room, lounge, dining, bedrooms, music corner"
+   ],
+   [
+    "Photography",
+    "Snap Space Studio"
+   ]
+  ],
+  "lede": "A villa named for the Spanish art of the afternoon pause.",
+  "body": [
+   "Siesta Villa was designed to press pause on chaos. Warm white walls, pale marble and concealed light make a quiet base; against it sit a low blue-grey sofa, mustard cushions and a sculpted black screen by the stair.",
+   "The feature walls carry the character: arched panels in two blues behind the lounge, fluted oak set on the diagonal around the television, and a fluted-glass partition with planters that divides the dining room without closing it."
+  ],
+  "note": "Named for the Spanish art of the afternoon pause. A home that presses pause on chaos, from the bedrooms to the living spaces.",
+  "cover": "assets/img/siesta-villa.jpg",
+  "cover_sm": "assets/img/siesta-villa-sm.jpg",
+  "cover_alt": "Siesta Villa, a three-storey home in warm sand plaster set in a tropical garden",
+  "gallery": [
+   {
+    "src": "assets/projects/siesta-villa/photo-lounge-wall.jpg",
+    "cap": "Lounge wall, photographed",
+    "role": "p",
+    "w": 1080,
+    "h": 1406
+   },
+   {
+    "src": "assets/projects/siesta-villa/photo-tv-wall.jpg",
+    "cap": "TV wall, photographed",
+    "role": "p",
+    "w": 1080,
+    "h": 1404
+   },
+   {
+    "src": "assets/projects/siesta-villa/photo-dining-screen.jpg",
+    "cap": "Dining screen, photographed",
+    "role": "p",
+    "w": 1080,
+    "h": 1454
+   },
+   {
+    "src": "assets/img/living-room.jpg",
+    "cap": "Living room",
+    "role": "l",
+    "w": 2400,
+    "h": 1357
+   },
+   {
+    "src": "assets/img/curves-and-calm.jpg",
+    "cap": "Lounge",
+    "role": "m",
+    "w": 2400,
+    "h": 1357
+   },
+   {
+    "src": "assets/img/detail-wall.jpg",
+    "cap": "TV wall",
+    "role": "m",
+    "w": 2400,
+    "h": 1357
+   },
+   {
+    "src": "assets/img/fluted-screen.jpg",
+    "cap": "Dining",
+    "role": "m",
+    "w": 2400,
+    "h": 1357
+   },
+   {
+    "src": "assets/img/music-corner.jpg",
+    "cap": "Music corner",
+    "role": "m",
+    "w": 2400,
+    "h": 1357
+   }
+  ],
+  "gallery_note": "Photography: Snap Space Studio. The wide views are illustrative renders based on the finished rooms.",
+  "plans": [],
+  "cover_w": 2400,
+  "cover_h": 1357
+ },
+ {
+  "slug": "human-design-academy",
+  "title": "Human Design Academy",
+  "place": "Adajan, Surat",
+  "kind": "Commercial · Learning studio",
+  "status": "Design, 2026",
+  "facts": [
+   [
+    "Location",
+    "Adajan, Surat"
+   ],
+   [
+    "Type",
+    "Commercial: learning studio and workplace"
+   ],
+   [
+    "Scope",
+    "Space planning, interior design, ceiling, lighting and furniture drawings"
+   ],
+   [
+    "Status",
+    "Design stage, October 2026"
+   ],
+   [
+    "Spaces",
+    "Reception lounge, meeting booths, conference room, cabin, stage, game zone, cafeteria"
+   ]
+  ],
+  "lede": "A learning studio in Adajan, drawn to feel nothing like an office.",
+  "body": [
+   "You arrive at a circular lounge under a ring of light, with a moss wall behind it and the academy's monogram glowing on peach plaster. From there the floor opens into one long room: booths wrapped in planting for small conversations, a glass conference room, a cabin with a daybed, and a stage where the seating is a scatter of pastel pebbles.",
+   "The ceiling does as much work as the walls. A field of triangular panels runs over the common area and breaks into curves above the lounge and the cafeteria, so each zone has its own light without a single partition."
+  ],
+  "note": "A design school that refuses to look like an office: a round lounge, booths in the planting and a stage with pebbles for chairs.",
+  "cover_alt": "Reception lounge at Human Design Academy with a round green sofa, moss wall and peach walls",
+  "cover": "assets/projects/human-design-academy/00-reception-lounge.jpg",
+  "cover_sm": "assets/projects/human-design-academy/cover-sm.jpg",
+  "gallery": [
+   {
+    "src": "assets/projects/human-design-academy/01-reception.jpg",
+    "cap": "Reception and waiting lounge",
+    "role": "l",
+    "w": 1900,
+    "h": 1065
+   },
+   {
+    "src": "assets/projects/human-design-academy/02-front-desk.jpg",
+    "cap": "Front desk",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/human-design-academy/03-meeting-booths.jpg",
+    "cap": "Meeting booths",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/human-design-academy/04-booth.jpg",
+    "cap": "Inside a booth",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/human-design-academy/05-conference-room.jpg",
+    "cap": "Conference room",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/human-design-academy/06-conference-table.jpg",
+    "cap": "Conference room, table side",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/human-design-academy/07-cabin.jpg",
+    "cap": "Cabin",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/human-design-academy/08-cabin-lounge.jpg",
+    "cap": "Cabin seating",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/human-design-academy/09-stage.jpg",
+    "cap": "Stage and common area",
+    "role": "l",
+    "w": 1779,
+    "h": 1522
+   },
+   {
+    "src": "assets/projects/human-design-academy/10-stage-seating.jpg",
+    "cap": "Pebble seating by the stage",
+    "role": "m",
+    "w": 1400,
+    "h": 845
+   },
+   {
+    "src": "assets/projects/human-design-academy/11-game-zone.jpg",
+    "cap": "Game zone",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/human-design-academy/12-cafeteria.jpg",
+    "cap": "Cafeteria",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/human-design-academy/13-cafeteria-bar.jpg",
+    "cap": "Cafeteria counter",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/human-design-academy/14-overview.jpg",
+    "cap": "The whole floor in 3D",
+    "role": "l",
+    "w": 1900,
+    "h": 1064
+   }
+  ],
+  "gallery_note": "All views are 3D visualisations from the CLIS design drawings.",
+  "plans": [
+   {
+    "src": "assets/projects/human-design-academy/plan-1.jpg",
+    "w": 2000,
+    "h": 1106
+   }
+  ],
+  "cover_w": 2200,
+  "cover_h": 1236
+ },
+ {
+  "slug": "sattvam-residence",
+  "title": "Sattvam Residence",
+  "place": "Pal, Surat",
+  "kind": "Residential · Apartment",
+  "status": "Design, 2026",
+  "facts": [
+   [
+    "Location",
+    "Sattvam, Pal, Surat"
+   ],
+   [
+    "Type",
+    "Residential: three-bedroom apartment"
+   ],
+   [
+    "Scope",
+    "Interior design and working drawings"
+   ],
+   [
+    "Status",
+    "Design stage, June 2026"
+   ],
+   [
+    "Spaces",
+    "Foyer, living and dining, kitchen, three bedrooms"
+   ]
+  ],
+  "lede": "A three-bedroom home in Pal where every room gets one quiet gesture.",
+  "body": [
+   "The foyer sets the tone with a wall of gingko leaves, each one backlit, so the first thing you see on coming home is a soft glow. The living room keeps to warm oak and stone around the TV wall, and a dining table folds out of a mural panel when it is needed.",
+   "In the bedrooms the same arch appears in three ways: routed into the wardrobe shutters, stacked as fluted panels behind a bed, and drawn in a single line across the master bedroom wall. Terracotta headboards carry the one strong colour."
+  ],
+  "note": "One arch, drawn three ways across three bedrooms, and a foyer wall of backlit gingko leaves to come home to.",
+  "cover_alt": "Bedroom with stacked arched wall panels and a terracotta headboard",
+  "cover": "assets/projects/sattvam-residence/00-bedroom-arches.jpg",
+  "cover_sm": "assets/projects/sattvam-residence/cover-sm.jpg",
+  "gallery": [
+   {
+    "src": "assets/projects/sattvam-residence/01-foyer-wall.jpg",
+    "cap": "Foyer wall with backlit gingko leaves",
+    "role": "l",
+    "w": 1900,
+    "h": 1288
+   },
+   {
+    "src": "assets/projects/sattvam-residence/02-living-room.jpg",
+    "cap": "Living room, TV wall",
+    "role": "m",
+    "w": 1400,
+    "h": 1322
+   },
+   {
+    "src": "assets/projects/sattvam-residence/04-master-bedroom.jpg",
+    "cap": "Master bedroom",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/sattvam-residence/05-master-bedroom-window.jpg",
+    "cap": "Master bedroom, window side",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/sattvam-residence/06-master-wardrobe.jpg",
+    "cap": "Master bedroom, wardrobe wall",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/sattvam-residence/07-bedroom-mirror.jpg",
+    "cap": "Children's bedroom, mirror side",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/sattvam-residence/08-bedroom-study.jpg",
+    "cap": "Children's bedroom, study side",
+    "role": "m",
+    "w": 1400,
+    "h": 950
+   },
+   {
+    "src": "assets/projects/sattvam-residence/09-study-desk.jpg",
+    "cap": "Study desk and display",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/sattvam-residence/10-parents-wall.jpg",
+    "cap": "Parents' bedroom, feature wall",
+    "role": "m",
+    "w": 1400,
+    "h": 1286
+   }
+  ],
+  "gallery_note": "All views are 3D visualisations from the CLIS design drawings.",
+  "plans": [
+   {
+    "src": "assets/projects/sattvam-residence/plan-1.jpg",
+    "w": 1388,
+    "h": 2042
+   }
+  ],
+  "cover_w": 2200,
+  "cover_h": 1470
+ },
+ {
+  "slug": "aspire-tower-k",
+  "title": "Aspire, Tower K",
+  "place": "Aspire, Surat",
+  "kind": "Residential · Apartment",
+  "status": "Design, 2026",
+  "facts": [
+   [
+    "Location",
+    "Aspire, Surat"
+   ],
+   [
+    "Type",
+    "Residential: three-bedroom apartment"
+   ],
+   [
+    "Scope",
+    "Interior design and working drawings"
+   ],
+   [
+    "Status",
+    "Design stage, July to September 2026"
+   ],
+   [
+    "Spaces",
+    "Entrance, living, dining, kitchen, three bedrooms"
+   ]
+  ],
+  "lede": "A family apartment at Aspire built around light that comes from behind things.",
+  "body": [
+   "The living room pairs a backlit stone panel with a fluted TV wall. Opposite it, an arched niche glows from its edge and a slotted screen lets light through to the dining side. The dining wall is a field of folded panels under a crystal chandelier.",
+   "The kitchen repeats the arch as a doorway, with a green stone backsplash and tall units in dark fluted glass. The bedrooms are deliberately plain: beige laminate, slim grooves, an oval mirror, one pendant by the bed."
+  ],
+  "note": "Light from behind things: a glowing stone panel, an arch lit from its edge, and a dining wall of folded panels.",
+  "cover_alt": "Dining wall of folded panels under a crystal chandelier",
+  "cover": "assets/projects/aspire-tower-k/00-dining-wall.jpg",
+  "cover_sm": "assets/projects/aspire-tower-k/cover-sm.jpg",
+  "gallery": [
+   {
+    "src": "assets/projects/aspire-tower-k/01-living-tv-wall.jpg",
+    "cap": "Living room, TV wall with a backlit stone panel",
+    "role": "l",
+    "w": 1609,
+    "h": 1070
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/02-living-arch.jpg",
+    "cap": "Living room, arched niche",
+    "role": "m",
+    "w": 1400,
+    "h": 947
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/03-kitchen-arch.jpg",
+    "cap": "Kitchen",
+    "role": "m",
+    "w": 1400,
+    "h": 946
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/04-kitchen-tall-units.jpg",
+    "cap": "Kitchen, tall units",
+    "role": "m",
+    "w": 1400,
+    "h": 1364
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/05-kitchen-counter.jpg",
+    "cap": "Kitchen counter",
+    "role": "m",
+    "w": 1400,
+    "h": 1458
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/06-master-bedroom.jpg",
+    "cap": "Master bedroom",
+    "role": "m",
+    "w": 1400,
+    "h": 1047
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/07-master-art-wall.jpg",
+    "cap": "Master bedroom, second option",
+    "role": "m",
+    "w": 1400,
+    "h": 1142
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/08-parents-bedroom.jpg",
+    "cap": "Parents' bedroom",
+    "role": "m",
+    "w": 1400,
+    "h": 1164
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/09-parents-wardrobe.jpg",
+    "cap": "Parents' bedroom, wardrobe and dresser",
+    "role": "m",
+    "w": 1400,
+    "h": 1183
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/10-wardrobe.jpg",
+    "cap": "Master bedroom, wardrobe",
+    "role": "m",
+    "w": 1400,
+    "h": 1238
+   },
+   {
+    "src": "assets/projects/aspire-tower-k/11-dressing.jpg",
+    "cap": "Dressing and storage",
+    "role": "m",
+    "w": 1400,
+    "h": 1413
+   }
+  ],
+  "gallery_note": "All views are 3D visualisations from the CLIS design drawings.",
+  "plans": [
+   {
+    "src": "assets/projects/aspire-tower-k/plan-1.jpg",
+    "w": 2000,
+    "h": 1489
+   }
+  ],
+  "cover_w": 2200,
+  "cover_h": 1464
+ },
+ {
+  "slug": "virat-nagar-house-salon",
+  "title": "Virat Nagar House & Salon",
+  "place": "Virat Nagar, Surat",
+  "kind": "Residential · Salon",
+  "status": "Design, 2026",
+  "facts": [
+   [
+    "Location",
+    "Virat Nagar, Surat"
+   ],
+   [
+    "Type",
+    "Residential with a salon, three floors"
+   ],
+   [
+    "Scope",
+    "Interior design and working drawings"
+   ],
+   [
+    "Status",
+    "Design stage, August to September 2026"
+   ],
+   [
+    "Spaces",
+    "Living room, kitchen, two bedrooms, salon, terrace waiting area"
+   ]
+  ],
+  "lede": "Three floors in Virat Nagar: a home on two, and a salon on the third.",
+  "body": [
+   "The ground floor holds the living room and an L-shaped kitchen in beige and oak, with a pooja niche set into an arch. Two bedrooms take the first floor, each with a window seat and a wardrobe wall banded in fluted wood.",
+   "The top floor is Glossy Beauty Salon. Two arched mirrors face the styling chairs, shelves glow inside a half-round niche, and a curtain separates the wash and facial rooms. The terrace beside it is planned as the waiting area and a backdrop for photographs."
+  ],
+  "note": "A family home on two floors and a salon on the third, where arched mirrors and a glowing shelf wall do the talking.",
+  "cover_alt": "Salon with two arched mirrors, styling chairs and a lit half-round shelf niche",
+  "cover": "assets/projects/virat-nagar-house-salon/00-salon.jpg",
+  "cover_sm": "assets/projects/virat-nagar-house-salon/cover-sm.jpg",
+  "gallery": [
+   {
+    "src": "assets/projects/virat-nagar-house-salon/01-salon-waiting.jpg",
+    "cap": "Salon, waiting corner",
+    "role": "m",
+    "w": 1400,
+    "h": 1158
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/02-salon-wash.jpg",
+    "cap": "Salon, wash and display",
+    "role": "m",
+    "w": 1400,
+    "h": 1068
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/03-salon-display.jpg",
+    "cap": "Salon, nail display",
+    "role": "m",
+    "w": 982,
+    "h": 1572
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/04-living-room.jpg",
+    "cap": "Living room",
+    "role": "m",
+    "w": 1400,
+    "h": 1259
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/05-living-wall.jpg",
+    "cap": "Living room, art wall",
+    "role": "m",
+    "w": 1400,
+    "h": 1124
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/06-kitchen.jpg",
+    "cap": "Kitchen",
+    "role": "m",
+    "w": 1400,
+    "h": 1127
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/07-kitchen-wall.jpg",
+    "cap": "Kitchen, cooking wall",
+    "role": "m",
+    "w": 1400,
+    "h": 1015
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/08-pooja-niche.jpg",
+    "cap": "Pooja niche",
+    "role": "m",
+    "w": 1400,
+    "h": 979
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/09-bedroom-one.jpg",
+    "cap": "Bedroom one",
+    "role": "m",
+    "w": 1400,
+    "h": 1142
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/10-bedroom-two.jpg",
+    "cap": "Bedroom two",
+    "role": "m",
+    "w": 1400,
+    "h": 1020
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/11-bedroom-two-storage.jpg",
+    "cap": "Bedroom two, storage wall",
+    "role": "m",
+    "w": 1400,
+    "h": 932
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/12-bedroom-window.jpg",
+    "cap": "Bedroom one, window seat",
+    "role": "m",
+    "w": 1400,
+    "h": 988
+   }
+  ],
+  "gallery_note": "All views are 3D visualisations from the CLIS design drawings.",
+  "plans": [
+   {
+    "src": "assets/projects/virat-nagar-house-salon/plan-1.jpg",
+    "cap": "Ground floor: living room and kitchen",
+    "w": 2000,
+    "h": 793
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/plan-2.jpg",
+    "cap": "First floor: two bedrooms",
+    "w": 2000,
+    "h": 616
+   },
+   {
+    "src": "assets/projects/virat-nagar-house-salon/plan-3.jpg",
+    "cap": "Second floor: salon and terrace",
+    "w": 2000,
+    "h": 833
+   }
+  ],
+  "cover_w": 2200,
+  "cover_h": 1525
+ },
+ {
+  "slug": "aspire-tower-c",
+  "title": "Aspire, Tower C",
+  "place": "Aspire, Surat",
+  "kind": "Residential · Apartment",
+  "status": "Design, 2026",
+  "facts": [
+   [
+    "Location",
+    "Aspire, Surat"
+   ],
+   [
+    "Type",
+    "Residential: three-bedroom apartment"
+   ],
+   [
+    "Scope",
+    "Interior design and working drawings"
+   ],
+   [
+    "Status",
+    "Design stage, April to June 2026"
+   ],
+   [
+    "Spaces",
+    "Living, dining, kitchen, master, parents’ and son’s bedrooms"
+   ]
+  ],
+  "lede": "A calm, pale apartment at Aspire, with one room that is allowed to be loud.",
+  "body": [
+   "In the living room two arched niches flank the TV on a grey stone wall, one of them holding a clock. The kitchen and dining share one open room in white and warm grey, with a dark tall unit to anchor it.",
+   "The master and parents’ bedrooms stay tonal, with embossed wall art lit from behind and a round relief panel above the bed. The son’s room breaks the rule on purpose: a cricket-club mural across the bed wall, sage green shutters and a study ledge by the window."
+  ],
+  "note": "A pale, tonal home with one room allowed to be loud: a cricket-club wall for the son.",
+  "cover_alt": "Pale master bedroom with a backlit embossed wall panel",
+  "cover": "assets/projects/aspire-tower-c/00-master-bedroom.jpg",
+  "cover_sm": "assets/projects/aspire-tower-c/cover-sm.jpg",
+  "gallery": [
+   {
+    "src": "assets/projects/aspire-tower-c/01-tv-wall.jpg",
+    "cap": "Living room, TV wall",
+    "role": "l",
+    "w": 1900,
+    "h": 1461
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/02-living-room.jpg",
+    "cap": "Living room",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/03-living-entry.jpg",
+    "cap": "Living room, towards the kitchen",
+    "role": "m",
+    "w": 1400,
+    "h": 988
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/04-dining.jpg",
+    "cap": "Dining",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/05-kitchen.jpg",
+    "cap": "Kitchen",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/06-master-bedroom-wall.jpg",
+    "cap": "Master bedroom, feature wall",
+    "role": "m",
+    "w": 1400,
+    "h": 900
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/07-master-bedroom-tv.jpg",
+    "cap": "Master bedroom, TV side",
+    "role": "m",
+    "w": 1400,
+    "h": 871
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/08-parents-bedroom.jpg",
+    "cap": "Parents' bedroom",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/09-parents-wardrobe.jpg",
+    "cap": "Parents' bedroom, wardrobe side",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/10-sons-room.jpg",
+    "cap": "Son's bedroom",
+    "role": "m",
+    "w": 1400,
+    "h": 786
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/11-sons-room-wall.jpg",
+    "cap": "Son's bedroom, cricket wall",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   },
+   {
+    "src": "assets/projects/aspire-tower-c/12-sons-study.jpg",
+    "cap": "Son's study corner",
+    "role": "m",
+    "w": 1400,
+    "h": 785
+   }
+  ],
+  "gallery_note": "All views are 3D visualisations from the CLIS design drawings.",
+  "plans": [
+   {
+    "src": "assets/projects/aspire-tower-c/plan-1.jpg",
+    "w": 2000,
+    "h": 1385
+   }
+  ],
+  "cover_w": 2200,
+  "cover_h": 1234
+ },
+ {
+  "slug": "janki-heights-residence",
+  "title": "Janki Heights Residence",
+  "place": "Janki Heights, Surat",
+  "kind": "Residential · Apartment",
+  "status": "Design, 2026",
+  "facts": [
+   [
+    "Location",
+    "Janki Heights, Surat"
+   ],
+   [
+    "Type",
+    "Residential: two-bedroom apartment"
+   ],
+   [
+    "Scope",
+    "Interior design and working drawings"
+   ],
+   [
+    "Status",
+    "Design stage, September 2026"
+   ],
+   [
+    "Spaces",
+    "Living room, kitchen, two bedrooms"
+   ]
+  ],
+  "lede": "A two-bedroom apartment at Janki Heights with a mural for a headboard wall.",
+  "body": [
+   "The master bedroom is the centre of this home. A chinoiserie mural of cranes and flowering branches runs the full width behind the bed, with a soft curve at its corner and light washing down from above. A second option keeps the same bed against bookmatched stone.",
+   "The living room stays simple so the bedroom can speak: a fluted dado behind an L-shaped sofa, a floating TV console, and warm cove light along the ceiling."
+  ],
+  "note": "A compact home where the bedroom wall is a mural of cranes and blossom, and everything else stays quiet.",
+  "cover_alt": "Master bedroom with a chinoiserie mural of cranes and blossom behind the bed",
+  "cover": "assets/projects/janki-heights-residence/00-master-bedroom.jpg",
+  "cover_sm": "assets/projects/janki-heights-residence/cover-sm.jpg",
+  "gallery": [
+   {
+    "src": "assets/projects/janki-heights-residence/01-living-room.jpg",
+    "cap": "Living room",
+    "role": "l",
+    "w": 1900,
+    "h": 1561
+   },
+   {
+    "src": "assets/projects/janki-heights-residence/02-tv-wall.jpg",
+    "cap": "Living room, TV wall",
+    "role": "m",
+    "w": 1400,
+    "h": 1238
+   },
+   {
+    "src": "assets/projects/janki-heights-residence/03-living-entry.jpg",
+    "cap": "Living room, entrance side",
+    "role": "m",
+    "w": 1400,
+    "h": 952
+   },
+   {
+    "src": "assets/projects/janki-heights-residence/04-bedroom-marble.jpg",
+    "cap": "Master bedroom, stone-wall option",
+    "role": "m",
+    "w": 1400,
+    "h": 990
+   },
+   {
+    "src": "assets/projects/janki-heights-residence/05-bedroom-wardrobe.jpg",
+    "cap": "Master bedroom, wardrobe wall",
+    "role": "m",
+    "w": 1400,
+    "h": 1166
+   }
+  ],
+  "gallery_note": "All views are 3D visualisations from the CLIS design drawings.",
+  "plans": [
+   {
+    "src": "assets/projects/janki-heights-residence/plan-1.jpg",
+    "w": 1292,
+    "h": 1745
+   }
+  ],
+  "cover_w": 2016,
+  "cover_h": 1637
+ }
+]
