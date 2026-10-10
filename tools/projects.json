@@ -68,7 +68,7 @@
     "cap": "Living room",
     "role": "l",
     "w": 2400,
-    "h": 1357
+    "h": 1340
    },
    {
     "src": "assets/img/curves-and-calm.jpg",
@@ -147,101 +147,101 @@
     "cap": "Reception and waiting lounge",
     "role": "l",
     "w": 1900,
-    "h": 1065
+    "h": 1074
    },
    {
     "src": "assets/projects/human-design-academy/02-front-desk.jpg",
     "cap": "Front desk",
     "role": "m",
-    "w": 1400,
-    "h": 785
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/03-meeting-booths.jpg",
     "cap": "Meeting booths",
     "role": "m",
-    "w": 1400,
-    "h": 786
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/04-booth.jpg",
     "cap": "Inside a booth",
     "role": "m",
-    "w": 1400,
-    "h": 786
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/05-conference-room.jpg",
     "cap": "Conference room",
     "role": "m",
-    "w": 1400,
-    "h": 786
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/06-conference-table.jpg",
     "cap": "Conference room, table side",
     "role": "m",
-    "w": 1400,
-    "h": 786
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/07-cabin.jpg",
     "cap": "Cabin",
     "role": "m",
-    "w": 1400,
-    "h": 785
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/08-cabin-lounge.jpg",
     "cap": "Cabin seating",
     "role": "m",
-    "w": 1400,
-    "h": 786
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/09-stage.jpg",
     "cap": "Stage and common area",
     "role": "l",
-    "w": 1779,
-    "h": 1522
+    "w": 1900,
+    "h": 1689
    },
    {
     "src": "assets/projects/human-design-academy/10-stage-seating.jpg",
     "cap": "Pebble seating by the stage",
     "role": "m",
-    "w": 1400,
-    "h": 845
+    "w": 1500,
+    "h": 889
    },
    {
     "src": "assets/projects/human-design-academy/11-game-zone.jpg",
     "cap": "Game zone",
     "role": "m",
-    "w": 1400,
-    "h": 785
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/12-cafeteria.jpg",
     "cap": "Cafeteria",
     "role": "m",
-    "w": 1400,
-    "h": 786
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/13-cafeteria-bar.jpg",
     "cap": "Cafeteria counter",
     "role": "m",
-    "w": 1400,
-    "h": 785
+    "w": 1500,
+    "h": 848
    },
    {
     "src": "assets/projects/human-design-academy/14-overview.jpg",
     "cap": "The whole floor in 3D",
     "role": "l",
     "w": 1900,
-    "h": 1064
+    "h": 1074
    }
   ],
-  "gallery_note": "All views are 3D visualisations from the CLIS design drawings.",
+  "gallery_note": "Design visualisations of the CLIS scheme, re-rendered for clarity from the studio’s 3D views.",
   "plans": [
    {
     "src": "assets/projects/human-design-academy/plan-1.jpg",
@@ -250,7 +250,7 @@
    }
   ],
   "cover_w": 2200,
-  "cover_h": 1236
+  "cover_h": 1244
  },
  {
   "slug": "sattvam-residence",
